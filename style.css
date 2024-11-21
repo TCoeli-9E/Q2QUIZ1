@@ -1,0 +1,19 @@
+body{
+	background-color: #C7BA81;
+	font-family: "Rowdies";
+	text-align: center;
+}
+
+.img-fluid{
+	width: 200px;
+	border: double ;
+	border-color: white;
+}
+.table-responsive{
+	border: solid ;
+	border-color: #CACAAA;
+}
+
+a{
+	color: white;
+}
